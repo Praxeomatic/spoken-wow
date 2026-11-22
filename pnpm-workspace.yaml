@@ -1,6 +1,0 @@
-packages:
-  - apps/*
-  - pipelines/places
-  - pipelines/readables
-  - packages/*
-  - scripts/manager
